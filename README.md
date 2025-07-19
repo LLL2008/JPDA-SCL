@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Getting start:
 
 ##### · Dataset structure
-```
+
 ```
 data/SD_H1318
 ├── gen_H13
@@ -58,6 +58,7 @@ data/SD_H1318
      ├── img_norm_all.npy
      └── gt_norm_all.npy
 ```
+
 ```
 data/SD_PUPC
 ├── gen_H13
@@ -88,7 +89,7 @@ data/raw
 └── PaviaU
      ├── paviaU.mat
      └── paviaU_gt.mat
-
+```
 
 **NOTE:**
 
