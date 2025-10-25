@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="./JPDA_SCL/logs/JPDA-SCL.png" width="800"/>
+  <img src="./JPDA_SCL/logs/Figure1.png" width="800"/>
 </div>
 <br>
 
